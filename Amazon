@@ -241,9 +241,48 @@ span.audibleTitle span img {
 a.a-button-text span {
     font-weight: normal;
     color: #fff;
+    border-style: none;
 }
 
 a.a-button-text {
     color: white;
+    border-style: none;
+}
+
+div.a-section.a-text-center.a-spacing-small {
+    display: none;
+}
+
+div.rbbHeader.dp-accordion-row {
+    display: none;
+}
+
+input.a-button-input.a-declarative {
+    border-style: none;
+    background-color: white;
+}
+
+div.a-button-stack {
+    border-style: none;
+}
+
+.a-button-group .a-button:only-child .a-button-inner {
+    background: white;
+}
+
+ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal {
+    border-style: none;
+}
+
+#formats .swatchElement .a-button {
+    border: none;
+}
+
+div.a-section.a-spacing-micro.bylineHidden.feature {
+    color: white;
+}
+
+.a-button-stack .a-button-group .a-button {
+    border: none;
 }
 
