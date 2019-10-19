@@ -247,6 +247,7 @@ a.a-button-text span {
 a.a-button-text {
     color: white;
     border-style: none;
+    background-color: white;
 }
 
 div.a-section.a-text-center.a-spacing-small {
@@ -284,5 +285,51 @@ div.a-section.a-spacing-micro.bylineHidden.feature {
 
 .a-button-stack .a-button-group .a-button {
     border: none;
+}
+
+hr.a-divider-normal.bucketDivider {
+    display: none;
+}
+
+div.a-box.mbc-offer-row.pa_mbc_on_amazon_offer {
+    display: none;
+}
+
+div.a-box.a-text-center {
+    display: none;
+}
+
+hr.a-spacing-base.a-divider-normal {
+    display: none;
+}
+
+div.fionaPublishBox {
+    display: none;
+}
+
+div.a-box-inner {
+    border-color: white;
+    border-style: none;
+}
+
+.btfRightRail {
+    border: none;
+}
+
+div.a-box {
+    background-color: white;
+    color: white;
+}
+
+hr.a-spacing-large.a-divider-normal {
+    display: none;
+}
+
+hr.a-divider-normal {
+    display: none;
+}
+
+div.rhf-border {
+    display: none;
 }
 
