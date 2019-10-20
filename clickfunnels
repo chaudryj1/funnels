@@ -1,0 +1,119 @@
+div.toggleEditor.toggleEditorControl.toggleCFEditorSettings.left-tip.pull-left img {
+    display: none;
+}
+
+i.fa.fa-bars {
+    display: none;
+}
+
+i.fa.fa-cogs {
+    display: none;
+}
+
+i.fa.fa-columns {
+    display: none;
+}
+
+i.fa.fa-cube {
+    display: none;
+}
+
+i.fa.fa-external-link {
+    display: none;
+}
+
+i.fa.fa-eye {
+    display: none;
+}
+
+i.fa.fa-plug {
+    display: none;
+}
+
+i.fa.fa-save {
+    display: none;
+}
+
+i.icon.clickfunnels.large.logo {
+    display: none;
+}
+
+i.clickfunnels.large.icon.backpack {
+    display: none;
+}
+
+i.clickfunnels.follow-up-funnel.icon {
+    display: none;
+}
+
+img.hover {
+    display: none;
+}
+
+div.ui.brand.icon.item {
+    display: none;
+}
+
+div.dropdown.item.link.simple.ui a {
+    color: #2c3438;
+}
+
+div.ui.dropdown.simple.link.item.notification {
+    display: none;
+}
+
+i.life.ring.icon {
+    display: none;
+}
+
+img.ui.circular.mini.avatar.image {
+    display: none;
+}
+
+div.pull-left.pageListingIcon img {
+    display: none;
+}
+
+div.funnelStatSmall.funnelViews.funnelPages.pull-left.pinned {
+    display: none;
+}
+
+a.btn.btn-default.btn-edit {
+    display: none;
+}
+
+i.fa.fa-star {
+    display: none;
+}
+
+div.pageListingType {
+    display: none;
+}
+
+div.tableGroupedTitleBar.groupHeader.clearfix.isDown {
+    background-color: #EDEFF0;
+    border-style: none;
+    color: #EDEFF0;
+}
+
+i.fa.fa-caret-down {
+    display: none;
+}
+
+body.signedin.funnels.index.pace-running footer {
+    display: none;
+}
+
+div.tableGroupedTitleBar.groupHeader.clearfix {
+    background-color: #F7F7F7;
+    color: #F7F7F7;
+}
+
+i.fa.fa-caret-up {
+    display: none;
+}
+
+div.messenger-message.message.alert.error.message-error.alert-error {
+    display: none;
+}
+
