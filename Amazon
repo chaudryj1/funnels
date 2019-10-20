@@ -333,3 +333,27 @@ div.rhf-border {
     display: none;
 }
 
+#nav-logo {
+    display: none;
+}
+
+#nav-hamburger-menu {
+    display: none;
+}
+
+span.icp-nav-link-inner {
+    display: none;
+}
+
+a.nav-a.nav-a-2 {
+    display: none;
+}
+
+a.nav-imageHref img {
+    display: none;
+}
+
+a.nav-a {
+    display: none;
+}
+
