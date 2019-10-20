@@ -262,6 +262,7 @@ div.rbbHeader.dp-accordion-row {
 input.a-button-input.a-declarative {
     border-style: none;
     background-color: white;
+    display: none;
 }
 
 div.a-button-stack {
@@ -412,9 +413,158 @@ div.a-section.a-spacing-none.gw-card-layout {
 
 div.a-section.a-spacing-none {
     background-color: white;
+    color: white;
 }
 
 div.a-section.a-spacing-base.a-spacing-top-medium.a-padding-none.a-text-center.rhf-fresh-header {
     color: white;
+}
+
+div.a-row.a-size-small {
+    display: none;
+}
+
+i.a-icon.a-icon-prime.a-icon-medium {
+    display: none;
+}
+
+h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-4 {
+    line-height: 100px;
+}
+
+a.a-expander-header.a-declarative.a-expander-extend-header.s-expander-text {
+    display: none;
+}
+
+div.a-section {
+    border-style: none;
+}
+
+a.a-link-normal.s-navigation-item section {
+    display: none;
+}
+
+div.amzn-safe-frame-container {
+    display: none;
+}
+
+h1.a-size-base.a-spacing-base.s-desktop-toolbar.a-text-normal {
+    display: none;
+}
+
+span.a-badge-label {
+    display: none;
+}
+
+#nav-subnav {
+    display: none;
+}
+
+div.a-section.a-text-center.image-map.aui-desktop-map {
+    display: none;
+}
+
+div.a-box-inner.a-alert-container {
+    display: none;
+}
+
+div.a-box.a-alert.a-alert-info {
+    display: none;
+}
+
+span.askPipe {
+    display: none;
+}
+
+div.centerColAlign {
+    display: none;
+}
+
+hr.bucketDivider {
+    display: none;
+}
+
+div.bucket {
+    display: none;
+}
+
+h2.a-spacing-micro {
+    display: none;
+}
+
+p.a-spacing-small.a-size-small.a-color-secondary {
+    display: none;
+}
+
+input.a-input-text.a-span12.askDPSearchTextInput.askDPSearchPostTextInput {
+    display: none;
+}
+
+div.a-input-text-addon-group.askSearchInputIngress {
+    display: none;
+}
+
+h2.a-color-state.a-text-left.a-text-bold {
+    display: none;
+}
+
+div.a-column.a-span12.a-text-left.a-spacing-top-micro {
+    display: none;
+}
+
+div.a-section.a-spacing-none.a-spacing-top-mini {
+    display: none;
+}
+
+div.a-section.a-spacing-mini {
+    display: none;
+}
+
+button.a-button-text.a-text-left {
+    display: none;
+}
+
+#ape_Detail_ams-detail-right-v2_desktop_iframe {
+    display: none;
+}
+
+#ape_Detail_ams-detail-right-v2_desktop_placement_Feedback {
+    display: none;
+}
+
+td.comparison_table_first_col {
+    display: none;
+}
+
+table.a-bordered.a-horizontal-stripes.a-spacing-none.a-size-base.comparison_table {
+    display: none;
+}
+
+tbody tr td {
+    display: none;
+}
+
+h2.a-color-base.askWidgetHeader {
+    display: none;
+}
+
+#ape_Detail_ad-endcap-1_Glance_iframe {
+    display: none;
+}
+
+#ape_Detail_ad-endcap-1_Glance_placement_Feedback {
+    display: none;
+}
+
+div.adFeedback.isLoomEnabled {
+    display: none;
+}
+
+li.a-spacing-micro {
+    display: none;
+}
+
+div.a-section.askTopQandALoadMoreQuestions {
+    display: none;
 }
 
