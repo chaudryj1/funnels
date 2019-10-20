@@ -252,3 +252,31 @@ a.btn.btn-default {
     box-shadow: none;
 }
 
+body.signedin.funnel_steps.show.pace-running footer {
+    display: none;
+}
+
+div.funnelExtraPageTitle {
+    display: none;
+}
+
+div.funnelStepsTitleExplainer.clearfix {
+    display: none;
+}
+
+div.funnelSideStepPercent.funnel_conv_rate {
+    display: none;
+}
+
+div.funnelSideStepPageViews span {
+    display: none;
+}
+
+.funnelSideStep:before, .funnelSideStep:hover:before {
+    display: none;
+}
+
+div.funnelSideStepPageTitle.funnelSideStepPageTitleExtraPadding {
+    color: #3E474F;
+}
+
