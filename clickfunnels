@@ -117,3 +117,138 @@ div.messenger-message.message.alert.error.message-error.alert-error {
     display: none;
 }
 
+div.funnelHeaderName.pull-left span {
+    display: none;
+}
+
+i.fa.fa-cog {
+    display: none;
+}
+
+div.funnelHeaderNameAndIcon.pull-left.clearfix {
+    display: none;
+}
+
+span.fa.fa-bars {
+    display: none;
+}
+
+span.fa.fa-bar-chart {
+    display: none;
+}
+
+span.fa.fa-users {
+    display: none;
+}
+
+span.fa.fa-money {
+    display: none;
+}
+
+span.fa.fa-gear {
+    display: none;
+}
+
+a.pull-left span {
+    color: #1668AB;
+}
+
+a.pull-left {
+    color: #1668AB;
+}
+
+i.fa.fa-th-large {
+    display: none;
+}
+
+i.fa.fa-flash {
+    display: none;
+}
+
+i.fa.fa-wrench {
+    display: none;
+}
+
+li.topPageTabs-item a {
+    color: #F7F7F7;
+}
+
+div.topPagesTitleBit.pull-left strong {
+    display: none;
+}
+
+a.openPageInEditor.openPageInEditorV1 {
+    display: none;
+}
+
+div.ui.attached.message {
+    display: none;
+}
+
+i.fa.fa-flask {
+    display: none;
+}
+
+div.funnelStartSplitTestHeadline {
+    display: none;
+}
+
+div.funnelStartSplitTestText {
+    display: none;
+}
+
+div.funnelStartSplitTestBlock.splitTestAddStart {
+    border-style: none;
+}
+
+i.fa.fa-plus {
+    display: none;
+}
+
+div.funnelStepPagesItemImage img {
+    display: none;
+}
+
+a.btn.btn-sm.btn-default.removeFromFunnelView {
+    display: none;
+}
+
+a.btn.btn-sm.btn-default {
+    display: none;
+}
+
+div.col-sm-12 {
+    display: none;
+}
+
+a.btn.btn-default.showPageSettingsDropdown.perview-url {
+    border-style: none;
+    background-color: white;
+}
+
+i.fa.fa-edit {
+    display: none;
+}
+
+a.btn.btn-default.showPageSettingsDropdown {
+    border-style: none;
+    background-color: white;
+    box-shadow: none;
+}
+
+.funnelStepPagesItem {
+    box-shadow: none;
+}
+
+div.funnelStepPagesEditPage {
+    border-style: none;
+    box-shadow: none;
+}
+
+a.btn.btn-default {
+    border: none;
+    color: white;
+    background: white;
+    box-shadow: none;
+}
+
