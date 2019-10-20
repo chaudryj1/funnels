@@ -228,6 +228,7 @@ span.a-label.a-checkbox-label {
 
 a.a-link-normal {
     color: white;
+    display: none;
 }
 
 div.a-section span {
@@ -565,6 +566,58 @@ li.a-spacing-micro {
 }
 
 div.a-section.askTopQandALoadMoreQuestions {
+    display: none;
+}
+
+span.a-button.a-button-dropdown.a-spacing-none.a-section {
+    display: none;
+}
+
+span.discountTextLeft {
+    display: none;
+}
+
+span.discountTextRight {
+    display: none;
+}
+
+span.discountPillLeft.pill.pillLightUp {
+    display: none;
+}
+
+span.discountPillRight.pill {
+    display: none;
+}
+
+span.a-size-small.a-center a {
+    color: white;
+}
+
+span.a-button.a-spacing-small.a-button-primary.a-button-icon {
+    display: none;
+}
+
+i.a-icon.a-accordion-radio.a-icon-radio-inactive {
+    display: none;
+}
+
+i.a-icon.a-accordion-radio.a-icon-radio-active {
+    display: none;
+}
+
+span.a-button.a-button-span12.a-button-base.digital-dash-create-button {
+    display: none;
+}
+
+span.a-button-text.a-text-left {
+    background-color: white;
+}
+
+span.a-color-price {
+    display: none;
+}
+
+span.a-button.a-button-primary.a-button-icon {
     display: none;
 }
 
