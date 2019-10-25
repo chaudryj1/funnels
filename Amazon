@@ -1,342 +1,51 @@
-div.similarities-widget.bucket {
-    display: none;
-}
-
-div.a-section.similarities-widget.sims-carousel-holder {
-    display: none;
-}
-
-ol.a-carousel {
-    display: none;
-}
-
-div.a-row.feature {
-    display: none;
-}
-
-#detail-bullets {
-    display: none;
-}
-
-div.a-begin.a-carousel-container.a-carousel-display-stretchyGoodness.a-carousel-transition-slide.vse-related-videos-container.vse-apply-play-icon.vse-rvs-v2.a-carousel-initialized {
-    display: none;
-}
-
-#importantInformation {
-    display: none;
-}
-
-#books-entity-teaser {
-    display: none;
-}
-
-#postBodyPS {
-    display: none;
-}
-
-div.a-row.cm_cr_grid_center_container {
-    display: none;
-}
-
-div.celwidget.pd_rd_w-9FTQT.pf_rd_p-0e5324e1-c848-4872-bbd5-5be6baedf80e.pf_rd_r-WSQ2KCQ4AE0W04RA7KBA.pd_rd_r-c70a0e14-8f41-42df-8852-c84bb59e19bc.pd_rd_wg-tpnxD {
-    display: none;
-}
-
-div.a-fixed-left-grid-inner {
-    display: none;
-}
-
-#outer_postBodyPS {
-    display: none;
-}
-
-h2.a-carousel-heading {
-    display: none;
-}
-
-div.a-column.a-span4.a-span-last.a-text-right {
-    display: none;
-}
-
-div.SP-Ad-Feedback {
-    display: none;
-}
-
-div.a-section.a-padding-base {
-    display: none;
-}
-
-div.a-box-inner.a-padding-small {
-    display: none;
-}
-
-#ape_Detail_ams-detail-right-pbook-tall_desktop_iframe {
-    display: none;
-}
-
-#ape_Detail_ams-detail-right-pbook-tall_desktop_placement_Feedback {
-    display: none;
-}
-
-div.fionaPublish {
-    display: none;
-}
-
-#ape_Detail_dp-ads-center-promo_Desktop_iframe {
-    display: none;
-}
-
-#ape_Detail_dp-ads-center-promo_Desktop_placement_Feedback {
-    display: none;
-}
-
-span.qpHeadline {
-    display: none;
-}
-
-span.navFooterBackToTopText {
-    display: none;
-}
-
-div.navLeftFooter.nav-sprite-v1 {
-    display: none;
-}
-
-div.rvi-container-v2 {
-    display: none;
-}
-
-#rhf-shoveler {
-    display: none;
-}
-
-div.a-section.bucket {
-    display: none;
-}
-
-div.a-begin.a-carousel-container.a-carousel-display-swap.a-carousel-transition-swap.a-carousel-initialized {
-    display: none;
-}
-
-div.celwidget {
+div.a-box-inner.a-alert-container {
+    background-color: transparent;
+    color: transparent;
     border-style: none;
 }
 
-span.a-text-bold {
-    display: none;
-}
-
-img.litb-on-click {
-    display: none;
-}
-
-div.a-column.a-span6.a-text-center.sampleBookAudio.a-span-last.a-span12 {
-    display: none;
-}
-
-div.a-row.a-spacing-mini.a-spacing-top-micro {
-    display: none;
-}
-
-h1.a-size-base.a-spacing-small.a-text-bold {
-    display: none;
-}
-
-div.a-column.a-span3 {
-    display: none;
-}
-
-div.a-column.a-span4.authorNameColumn {
-    display: none;
-}
-
-div.a-column.a-span5.a-span-last {
-    display: none;
-}
-
-span.a-size-medium.a-color-secondary.a-text-normal {
-    display: none;
-}
-
-span.a-size-base {
-    display: none;
-}
-
-span.a-color-secondary {
-    display: none;
-}
-
-i.a-icon.a-icon-popover {
-    display: none;
-}
-
-span.reviewCountTextLinkedHistogram.noUnderline {
-    display: none;
-}
-
-span.olp-from {
-    display: none;
-}
-
-a.a-size-mini.a-link-normal {
-    display: none;
-}
-
-span.tmmShowPrompt {
-    display: none;
-}
-
-a.a-link-expander.a-spacing-top-micro.a-spacing-small.a-size-small {
-    display: none;
-}
-
-div.qpImage a img {
-    display: none;
-}
-
-div.a-row.a-spacing-medium {
-    color: white;
-}
-
-div.a-row.a-spacing-medium a {
-    color: white;
-}
-
-span.a-color-base.buyboxShippingLabel {
-    display: none;
-}
-
-span.a-button-text.a-declarative {
-    display: none;
-}
-
-span.a-button.a-button-dropdown.a-button-small {
-    display: none;
-}
-
-#contextualIngressPtPin {
-    display: none;
-}
-
-span.a-label.a-checkbox-label {
-    display: none;
-}
-
-#bbop-check-box {
+i.a-icon.a-icon-alert {
     display: none;
 }
 
 a.a-link-normal {
-    color: white;
+    color: transparent;
+}
+
+span.a-size-mini.a-color-secondary {
+    color: transparent;
+}
+
+#nav-subnav {
+    background-color: transparent;
+    color: transparent;
+}
+
+span.nav-arrow {
     display: none;
 }
 
-div.a-section span {
-    color: white;
+span.nav-line-1 {
+    color: transparent;
 }
 
-span.audibleTitle span img {
+span.nav-line-2 {
+    color: transparent;
+}
+
+a.nav-a.nav-a-2.a-popover-trigger.a-declarative {
     display: none;
 }
 
-a.a-button-text span {
-    font-weight: normal;
-    color: #fff;
-    border-style: none;
-}
-
-a.a-button-text {
-    color: white;
-    border-style: none;
-    background-color: white;
+#nav-xshop {
     display: none;
 }
 
-div.a-section.a-text-center.a-spacing-small {
+span.nav-sprite.nav-logo-base {
     display: none;
 }
 
-div.rbbHeader.dp-accordion-row {
-    display: none;
-}
-
-input.a-button-input.a-declarative {
-    border-style: none;
-    background-color: white;
-    display: none;
-}
-
-div.a-button-stack {
-    border-style: none;
-}
-
-.a-button-group .a-button:only-child .a-button-inner {
-    background: white;
-}
-
-ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal {
-    border-style: none;
-}
-
-#formats .swatchElement .a-button {
-    border: none;
-}
-
-div.a-section.a-spacing-micro.bylineHidden.feature {
-    color: white;
-}
-
-.a-button-stack .a-button-group .a-button {
-    border: none;
-}
-
-hr.a-divider-normal.bucketDivider {
-    display: none;
-}
-
-div.a-box.mbc-offer-row.pa_mbc_on_amazon_offer {
-    display: none;
-}
-
-div.a-box.a-text-center {
-    display: none;
-}
-
-hr.a-spacing-base.a-divider-normal {
-    display: none;
-}
-
-div.fionaPublishBox {
-    display: none;
-}
-
-div.a-box-inner {
-    border-color: white;
-    border-style: none;
-}
-
-.btfRightRail {
-    border: none;
-}
-
-div.a-box {
-    background-color: white;
-    color: white;
-}
-
-hr.a-spacing-large.a-divider-normal {
-    display: none;
-}
-
-hr.a-divider-normal {
-    display: none;
-}
-
-div.rhf-border {
-    display: none;
-}
-
-#nav-logo {
+a.nav-sprite.nav-logo-tagline {
     display: none;
 }
 
@@ -344,280 +53,27 @@ div.rhf-border {
     display: none;
 }
 
-span.icp-nav-link-inner {
+span.icp-nav-globe-img-2 {
     display: none;
 }
 
-a.nav-a.nav-a-2 {
-    display: none;
-}
-
-a.nav-imageHref img {
-    display: none;
-}
-
-a.nav-a {
-    display: none;
-}
-
-i.a-icon.a-icon-logo {
-    display: none;
-}
-
-div.a-row.a-spacing-top-medium.a-size-small {
-    display: none;
-}
-
-div.a-row.a-expander-container.a-expander-inline-container {
-    display: none;
-}
-
-div.a-divider.a-divider-break {
-    display: none;
-}
-
-div.a-divider-inner {
-    display: none;
-}
-
-span.a-button-inner {
-    border-style: none;
-}
-
-div.a-checkbox label {
-    display: none;
-}
-
-div.ewc-scroll-area {
-    display: none;
-}
-
-div.ewc-untabbed-checkout {
-    display: none;
-}
-
-div.ewc-expander-header a {
-    display: none;
-}
-
-div.ewc-scroll.ewc-scrollbar-mouseentering {
-    border-style: none;
-}
-
-div.a-section.a-spacing-none.aok-relative.tall {
-    display: none;
-}
-
-div.a-section.a-spacing-none.gw-card-layout {
-    display: none;
+span.a-size-large {
+    color: transparent;
 }
 
 div.a-section.a-spacing-none {
-    background-color: white;
-    color: white;
+    color: transparent;
 }
 
-div.a-section.a-spacing-base.a-spacing-top-medium.a-padding-none.a-text-center.rhf-fresh-header {
-    color: white;
-}
-
-div.a-row.a-size-small {
-    display: none;
-}
-
-i.a-icon.a-icon-prime.a-icon-medium {
-    display: none;
-}
-
-h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-4 {
-    line-height: 100px;
-}
-
-a.a-expander-header.a-declarative.a-expander-extend-header.s-expander-text {
-    display: none;
-}
-
-div.a-section {
-    border-style: none;
-}
-
-a.a-link-normal.s-navigation-item section {
-    display: none;
-}
-
-div.amzn-safe-frame-container {
-    display: none;
-}
-
-h1.a-size-base.a-spacing-base.s-desktop-toolbar.a-text-normal {
-    display: none;
-}
-
-span.a-badge-label {
-    display: none;
-}
-
-#nav-subnav {
-    display: none;
-}
-
-div.a-section.a-text-center.image-map.aui-desktop-map {
-    display: none;
-}
-
-div.a-box-inner.a-alert-container {
-    display: none;
-}
-
-div.a-box.a-alert.a-alert-info {
+i.a-icon.a-icon-star.a-star-4 {
     display: none;
 }
 
 span.askPipe {
-    display: none;
+    color: transparent;
 }
 
-div.centerColAlign {
-    display: none;
-}
-
-hr.bucketDivider {
-    display: none;
-}
-
-div.bucket {
-    display: none;
-}
-
-h2.a-spacing-micro {
-    display: none;
-}
-
-p.a-spacing-small.a-size-small.a-color-secondary {
-    display: none;
-}
-
-input.a-input-text.a-span12.askDPSearchTextInput.askDPSearchPostTextInput {
-    display: none;
-}
-
-div.a-input-text-addon-group.askSearchInputIngress {
-    display: none;
-}
-
-h2.a-color-state.a-text-left.a-text-bold {
-    display: none;
-}
-
-div.a-column.a-span12.a-text-left.a-spacing-top-micro {
-    display: none;
-}
-
-div.a-section.a-spacing-none.a-spacing-top-mini {
-    display: none;
-}
-
-div.a-section.a-spacing-mini {
-    display: none;
-}
-
-button.a-button-text.a-text-left {
-    display: none;
-}
-
-#ape_Detail_ams-detail-right-v2_desktop_iframe {
-    display: none;
-}
-
-#ape_Detail_ams-detail-right-v2_desktop_placement_Feedback {
-    display: none;
-}
-
-td.comparison_table_first_col {
-    display: none;
-}
-
-table.a-bordered.a-horizontal-stripes.a-spacing-none.a-size-base.comparison_table {
-    display: none;
-}
-
-tbody tr td {
-    display: none;
-}
-
-h2.a-color-base.askWidgetHeader {
-    display: none;
-}
-
-#ape_Detail_ad-endcap-1_Glance_iframe {
-    display: none;
-}
-
-#ape_Detail_ad-endcap-1_Glance_placement_Feedback {
-    display: none;
-}
-
-div.adFeedback.isLoomEnabled {
-    display: none;
-}
-
-li.a-spacing-micro {
-    display: none;
-}
-
-div.a-section.askTopQandALoadMoreQuestions {
-    display: none;
-}
-
-span.a-button.a-button-dropdown.a-spacing-none.a-section {
-    display: none;
-}
-
-span.discountTextLeft {
-    display: none;
-}
-
-span.discountTextRight {
-    display: none;
-}
-
-span.discountPillLeft.pill.pillLightUp {
-    display: none;
-}
-
-span.discountPillRight.pill {
-    display: none;
-}
-
-span.a-size-small.a-center a {
-    color: white;
-}
-
-span.a-button.a-spacing-small.a-button-primary.a-button-icon {
-    display: none;
-}
-
-i.a-icon.a-accordion-radio.a-icon-radio-inactive {
-    display: none;
-}
-
-i.a-icon.a-accordion-radio.a-icon-radio-active {
-    display: none;
-}
-
-span.a-button.a-button-span12.a-button-base.digital-dash-create-button {
-    display: none;
-}
-
-span.a-button-text.a-text-left {
-    background-color: white;
-}
-
-span.a-color-price {
-    display: none;
-}
-
-span.a-button.a-button-primary.a-button-icon {
+a.a-popover-trigger.a-declarative {
     display: none;
 }
 
