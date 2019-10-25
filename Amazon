@@ -77,3 +77,76 @@ a.a-popover-trigger.a-declarative {
     display: none;
 }
 
+span.a-size-base-plus.a-color-base.a-text-normal {
+    color: transparent;
+}
+
+div.a-row {
+    color: transparent;
+}
+
+span.a-size-base.a-color-secondary {
+    color: transparent;
+}
+
+i.a-icon.a-icon-prime.a-icon-medium {
+    display: none;
+}
+
+span.a-color-base {
+    color: transparent;
+}
+
+span.a-size-base.s-coupon-highlight-color.s-highlighted-text-padding.aok-inline-block {
+    color: transparent;
+    background-color: transparent;
+}
+
+i.a-icon.a-icon-checkbox {
+    display: none;
+}
+
+i.a-icon.a-icon-prime-pantry.a-icon-medium {
+    display: none;
+}
+
+i.a-icon.a-icon-prime-wardrobe-badge.a-icon-mini {
+    display: none;
+}
+
+span.a-expander-prompt {
+    color: transparent;
+}
+
+i.a-icon.a-icon-extender-expand {
+    display: none;
+}
+
+i.a-icon.a-icon-star-medium.a-star-medium-4 {
+    display: none;
+}
+
+i.a-icon.a-icon-star-medium.a-star-medium-3 {
+    display: none;
+}
+
+i.a-icon.a-icon-star-medium.a-star-medium-2 {
+    display: none;
+}
+
+i.a-icon.a-icon-star-medium.a-star-medium-1 {
+    display: none;
+}
+
+span.a-price span {
+    color: transparent;
+}
+
+div.s-include-content-margin.s-border-bottom.s-border-top-overlap.s-widget-padding-bottom {
+    height: 1000px;
+}
+
+h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-2 {
+    width: 3000px;
+}
+
