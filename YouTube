@@ -1,0 +1,226 @@
+.sbdd_b {
+    display: none;
+}
+
+a.ytp-ce-covering-overlay {
+    display: none;
+}
+
+a.ytp-next-button.ytp-button {
+    display: none;
+}
+
+div.header.style-scope.ytd-playlist-panel-renderer {
+    display: none;
+}
+
+div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles {
+    display: none;
+}
+
+div.playlist-items.yt-scrollbar-dark.style-scope.ytd-playlist-panel-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-comments-header-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-guide-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-notification-topbar-button-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-search-sub-menu-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-section-list-renderer {
+    border-style: none;
+}
+
+div.style-scope.ytd-video-primary-info-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-video-secondary-info-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-watch-next-secondary-results-renderer {
+    display: none;
+}
+
+div.yt-icon-container.style-scope.ytd-topbar-logo-renderer {
+    display: none;
+}
+
+div.ytp-cards-button-icon {
+    display: none;
+}
+
+div.ytp-cards-teaser-text {
+    display: none;
+}
+
+div.ytp-ce-covering-shadow-top {
+    display: none;
+}
+
+div.ytp-ce-element-shadow {
+    display: none;
+}
+
+div.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-bottom-right-quad.ytp-ce-size-853.ytp-ce-element-hover {
+    display: none;
+}
+
+div.ytp-ce-expanding-image {
+    display: none;
+}
+
+div.ytp-ce-expanding-overlay {
+    display: none;
+}
+
+div.ytp-ce-expanding-overlay-background {
+    display: none;
+}
+
+div.ytp-chrome-bottom {
+    display: none;
+}
+
+div.ytp-chrome-controls {
+    display: none;
+}
+
+h1.title.style-scope.ytd-video-primary-info-renderer {
+    display: none;
+}
+
+img.branding-img.iv-click-target {
+    display: none;
+}
+
+img.style-scope.yt-img-shadow {
+    display: none;
+}
+
+paper-button.style-scope.ytd-toggle-button-renderer {
+    display: none;
+}
+
+yt-icon-button.style-scope.ytd-masthead {
+    display: none;
+}
+
+yt-icon.style-scope.ytd-notification-topbar-button-renderer {
+    display: none;
+}
+
+yt-icon.style-scope.ytd-topbar-menu-button-renderer {
+    display: none;
+}
+
+ytd-browse.style-scope.ytd-page-manager {
+    display: none;
+}
+
+ytd-compact-autoplay-renderer.style-scope.ytd-watch-next-secondary-results-renderer {
+    display: none;
+}
+
+ytd-guide-section-renderer.style-scope.ytd-guide-renderer {
+    display: none;
+}
+
+ytd-item-section-renderer.style-scope.ytd-comments {
+    padding-top: 10000px;
+}
+
+ytd-two-column-search-results-renderer.style-scope.ytd-search {
+    height: 150px;
+}
+
+ytd-unlimited-offer-module-renderer.style-scope.ytd-watch-next-secondary-results-renderer {
+    display: none;
+}
+
+ytd-video-primary-info-renderer.style-scope.ytd-watch-flexy {
+    display: none;
+}
+
+ytd-video-secondary-info-renderer.style-scope.ytd-watch-flexy {
+    display: none;
+}
+
+.html5-video-player a {
+    display: none;
+}
+
+.ytp-ce-covering-image {
+    display: none;
+}
+
+yt-formatted-string.style-scope.ytd-video-renderer {
+    color: transparent;
+}
+
+div.style-scope.ytd-video-meta-block {
+    color: transparent;
+}
+
+a.yt-simple-endpoint.style-scope.yt-formatted-string {
+    color: transparent;
+}
+
+div.style-scope.ytd-video-renderer {
+    color: transparent;
+}
+
+a.yt-simple-endpoint.style-scope.ytd-video-renderer {
+    color: transparent;
+}
+
+span.style-scope.ytd-badge-supported-renderer {
+    display: none;
+}
+
+yt-icon.style-scope.ytd-badge-supported-renderer {
+    display: none;
+}
+
+yt-icon.style-scope.ytd-menu-renderer {
+    display: none;
+}
+
+div.style-scope.ytd-thumbnail-overlay-resume-playback-renderer {
+    display: none;
+}
+
+yt-icon.style-scope.ytd-thumbnail-overlay-toggle-button-renderer {
+    display: none;
+    color: transparent;
+    background-color: transparent;
+}
+
+ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail {
+    display: none;
+}
+
+ytd-thumbnail-overlay-time-status-renderer {
+    display: none;
+}
+
+ytd-thumbnail-overlay-resume-playback-renderer {
+    display: none;
+}
+
+.ytp-ce-element.ytp-ce-element-show {
+    display: none;
+}
+
