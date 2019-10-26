@@ -150,3 +150,116 @@ h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-2 {
     width: 3000px;
 }
 
+div.a-section.a-spacing-small.a-spacing-top-small span {
+    color: transparent;
+}
+
+a.nav-imageHref img {
+    display: none;
+}
+
+span.a-button-text.a-declarative {
+    width: 40px;
+    display: none;
+}
+
+span.a-button.a-button-dropdown.a-button-small {
+    display: none;
+}
+
+div.a-section {
+    border-style: none;
+}
+
+span.nav-cart-icon.nav-sprite {
+    display: none;
+}
+
+span.nav-cart-count.nav-cart-0 {
+    color: transparent;
+}
+
+div.a-section.a-spacing-micro.s-min-height-extra-large {
+    margin-top: 100px;
+}
+
+h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-4 {
+    width: 1000px;
+}
+
+span.a-price.a-text-price span {
+    display: none;
+}
+
+span.a-color-secondary {
+    color: transparent;
+}
+
+hr.a-spacing-mini.a-divider-normal {
+    display: none;
+}
+
+div.a-section.a-spacing-none.a-spacing-top-small {
+    display: none;
+}
+
+span.a-size-base.a-color-tertiary {
+    color: transparent;
+}
+
+div.amzn-safe-frame-container {
+    display: none;
+}
+
+span.a-size-base.a-color-link.vse-sm-link {
+    color: transparent;
+}
+
+span.a-size-mini.vse-video-vendorname {
+    color: transparent;
+}
+
+div.sponsoredBy.h-ellipsis {
+    color: transparent;
+}
+
+div.textContainer {
+    color: transparent;
+}
+
+img.mediaCentralImage.primeLogo {
+    display: none;
+}
+
+span.shopNow__label {
+    color: transparent;
+}
+
+span.shopNow__caret {
+    color: transparent;
+}
+
+#ad-feedback-sprite-auto-sparkle-hsa-tetris {
+    display: none;
+}
+
+#ad-feedback-text-auto-sparkle-hsa-tetris {
+    color: transparent;
+}
+
+div.s-include-content-margin.s-border-bottom {
+    height: 700px;
+}
+
+div.a-section.a-spacing-none.s-shopping-adviser {
+    height: 900px;
+}
+
+div.mediaCentralImage.starRating__stars {
+    display: none;
+}
+
+span.starRating__count {
+    color: transparent;
+}
+
