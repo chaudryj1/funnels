@@ -2,6 +2,7 @@ div.a-box-inner.a-alert-container {
     background-color: transparent;
     color: transparent;
     border-style: none;
+    display: none;
 }
 
 i.a-icon.a-icon-alert {
@@ -19,6 +20,7 @@ span.a-size-mini.a-color-secondary {
 #nav-subnav {
     background-color: transparent;
     color: transparent;
+    display: none;
 }
 
 span.nav-arrow {
@@ -262,4 +264,133 @@ div.mediaCentralImage.starRating__stars {
 span.starRating__count {
     color: transparent;
 }
+
+div.a-fixed-left-grid-inner {
+    display: none;
+}
+
+div.a-section.a-spacing-mini {
+    display: none;
+}
+
+div.ac-badge-wrapper {
+    display: none;
+}
+
+td.a-span12 {
+    display: none;
+}
+
+label.a-form-label {
+    display: none;
+}
+
+div.centerColAlign hr {
+    display: none;
+}
+
+td.a-color-secondary.a-size-base.a-text-right.a-nowrap {
+    display: none;
+}
+
+#contextualIngressPt {
+    display: none;
+}
+
+div.a-section.a-spacing-none.a-spacing-top-mini {
+    display: none;
+}
+
+span.a-size-medium.a-color-success {
+    display: none;
+}
+
+i.a-icon.a-icon-prime.a-icon-mini {
+    display: none;
+}
+
+span.a-size-mini.price_slot_ppu {
+    display: none;
+}
+
+span.a-size-mini.twisterSwatchPrice {
+    display: none;
+}
+
+div.a-section.a-spacing-medium.a-spacing-top-small {
+    display: none;
+}
+
+span.olp-padding-right a {
+    display: none;
+}
+
+span.edpIngressIcon {
+    display: none;
+}
+
+div.centerColAlign {
+    margin-bottom: 1000px;
+}
+
+#sns-base-price {
+    display: none;
+}
+
+div.discountPillWrapper {
+    display: none;
+}
+
+span.a-size-small.a-color-price {
+    display: none;
+}
+
+span.a-color-price {
+    color: transparent;
+}
+
+hr.a-divider-normal {
+    display: none;
+}
+
+div.a-box.a-alert.a-alert-info {
+    display: none;
+}
+
+span.a-list-item.a-color-tertiary {
+    display: none;
+}
+
+div.a-box-inner {
+    margin-top: 100px;
+}
+
+div.a-section.a-spacing-small.maple-banner {
+    display: none;
+}
+
+i.a-icon.a-accordion-radio.a-icon-radio-active {
+    display: none;
+}
+
+span.a-button.a-button-dropdown.a-spacing-none.a-section {
+    display: none;
+}
+
+a.a-accordion-row.a-declarative {
+    border-radius: 0;
+}
+
+div.a-box.a-accordion-active {
+    height: 500px;
+}
+
+div.a-box {
+    margin-top: 100px;
+}
+
+div.a-section.a-text-center.a-spacing-small {
+    display: none;
+}
+
 
