@@ -280,3 +280,63 @@ div.funnelSideStepPageTitle.funnelSideStepPageTitleExtraPadding {
     color: #3E474F;
 }
 
+#cf-dash-content {
+    display: none;
+}
+
+#cf-dash-leftSide {
+    display: none;
+}
+
+div.sidebar.container {
+    display: none;
+}
+
+div.ui.attached.segment.dashboard {
+    display: none;
+}
+
+div.six.wide.column.right.aligned {
+    display: none;
+}
+
+div.ten.wide.column {
+    display: none;
+}
+
+div.item.cf-quick-search-container {
+    display: none;
+}
+
+input.cf-quick-search-input.prompt {
+    display: none;
+}
+
+div.ui.cf-quick-search.input {
+    display: none;
+}
+
+.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item i.icon {
+    display: none;
+}
+
+.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item {
+    color: transparent;
+}
+
+div.pull-left.AffiliateTableHeader.greyBox.clearfix {
+    display: none;
+}
+
+ul.paymentTypesNav.mainFunnelnav.pull-left {
+    display: none;
+}
+
+div.dashboardSideBlockWrap {
+    display: none;
+}
+
+div.btn.btn-block.clearfix {
+    display: none;
+}
+
