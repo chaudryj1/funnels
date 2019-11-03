@@ -1,8 +1,284 @@
+#cf-dash-content {
+    display: none;
+}
+
+#cf-dash-leftSide {
+    display: none;
+}
+
+#cfFlashMessages div.floatingMessages, #cfFlashMessages #flashMessageContainer {
+    display: none;
+}
+
+.editorHelpTopBar *, .toggleEditorContainer * {
+    color: transparent;
+}
+
+.editorTopNavSecondary .editorTopNavItem i {
+    display: none;
+}
+
+.funnelSideStep:before, .funnelSideStep:hover:before {
+    display: none;
+}
+
+.funnelStepPagesItem {
+    box-shadow: none;
+}
+
+.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item {
+    color: transparent;
+}
+
+.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item i.icon {
+    display: none;
+}
+
+a.btn.btn-default {
+    background: white;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+a.btn.btn-default.btn-edit {
+    display: none;
+}
+
+a.btn.btn-default.showPageSettingsDropdown {
+    background-color: white;
+    border-style: none;
+    box-shadow: none;
+}
+
+a.btn.btn-default.showPageSettingsDropdown.perview-url {
+    background-color: white;
+    border-style: none;
+}
+
+a.btn.btn-sm.btn-default {
+    display: none;
+}
+
+a.btn.btn-sm.btn-default.removeFromFunnelView {
+    display: none;
+}
+
+a.openPageInEditor.openPageInEditorV1 {
+    display: none;
+}
+
+a.pull-left {
+    color: #1668AB;
+}
+
+a.pull-left span {
+    color: #1668AB;
+}
+
+body.signedin.funnel_steps.show.pace-running footer {
+    display: none;
+}
+
+body.signedin.funnels.index.pace-running footer {
+    display: none;
+}
+
+div.btn.btn-block.clearfix {
+    display: none;
+}
+
+div.col-sm-12 {
+    display: none;
+}
+
+div.col-sm-6 {
+    display: none;
+}
+
+div.col-sm-6.text-right {
+    display: none;
+}
+
+div.dashboardSideBlockWrap {
+    display: none;
+}
+
+div.de-rollover-advance {
+    height: 20px;
+}
+
+div.dropdown.item.link.simple.ui {
+    width: 500px;
+}
+
+div.dropdown.item.link.simple.ui a {
+    color: #2c3438;
+}
+
+div.error.floating.message.ui.transition.visible {
+    background-color: transparent;
+    color: transparent;
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+div.error.floating.message.ui.transition.visible p {
+    height: 0;
+    width: 0;
+}
+
+div.funnelExtraPageTitle {
+    display: none;
+}
+
+div.funnelHeaderName.pull-left span {
+    display: none;
+}
+
+div.funnelHeaderNameAndIcon.pull-left.clearfix {
+    display: none;
+}
+
+div.funnelSideStepPageTitle.funnelSideStepPageTitleExtraPadding {
+    color: #3E474F;
+}
+
+div.funnelSideStepPageViews span {
+    display: none;
+}
+
+div.funnelSideStepPercent.funnel_conv_rate {
+    display: none;
+}
+
+div.funnelStartSplitTestBlock.splitTestAddStart {
+    border-style: none;
+}
+
+div.funnelStartSplitTestHeadline {
+    display: none;
+}
+
+div.funnelStartSplitTestText {
+    display: none;
+}
+
+div.funnelStatSmall.funnelViews.funnelPages.pull-left.pinned {
+    display: none;
+}
+
+div.funnelStepPagesEditPage {
+    border-style: none;
+    box-shadow: none;
+}
+
+div.funnelStepPagesItemImage img {
+    display: none;
+}
+
+div.funnelStepsTitleExplainer.clearfix {
+    display: none;
+}
+
+div.header {
+    color: transparent;
+    height: 0;
+}
+
+div.item.cf-quick-search-container {
+    display: none;
+}
+
+div.messenger-message.message.alert.error.message-error.alert-error {
+    display: none;
+}
+
+div.pageListingType {
+    display: none;
+}
+
+div.pull-left.AffiliateTableHeader.greyBox.clearfix {
+    display: none;
+}
+
+div.pull-left.pageListingIcon img {
+    display: none;
+}
+
+div.sidebar.container {
+    display: none;
+}
+
+div.six.wide.column.right.aligned {
+    display: none;
+}
+
+div.tableGroupedTitleBar.groupHeader.clearfix {
+    background-color: #F7F7F7;
+    color: #F7F7F7;
+}
+
+div.tableGroupedTitleBar.groupHeader.clearfix.isDown {
+    background-color: #EDEFF0;
+    border-style: none;
+    color: #EDEFF0;
+}
+
+div.ten.wide.column {
+    display: none;
+}
+
 div.toggleEditor.toggleEditorControl.toggleCFEditorSettings.left-tip.pull-left img {
     display: none;
 }
 
+div.topPagesTitleBit.pull-left strong {
+    display: none;
+}
+
+div.ui.attached.message {
+    display: none;
+}
+
+div.ui.attached.segment.dashboard {
+    display: none;
+}
+
+div.ui.brand.icon.item {
+    display: none;
+}
+
+div.ui.cf-quick-search.input {
+    display: none;
+}
+
+div.ui.dropdown.simple.link.item.notification {
+    display: none;
+}
+
+i.clickfunnels.follow-up-funnel.icon {
+    display: none;
+}
+
+i.clickfunnels.large.icon.backpack {
+    display: none;
+}
+
 i.fa.fa-bars {
+    display: none;
+}
+
+i.fa.fa-caret-down {
+    display: none;
+}
+
+i.fa.fa-caret-up {
+    display: none;
+}
+
+i.fa.fa-cog {
     display: none;
 }
 
@@ -18,6 +294,10 @@ i.fa.fa-cube {
     display: none;
 }
 
+i.fa.fa-edit {
+    display: none;
+}
+
 i.fa.fa-external-link {
     display: none;
 }
@@ -26,162 +306,7 @@ i.fa.fa-eye {
     display: none;
 }
 
-i.fa.fa-plug {
-    display: none;
-}
-
-i.fa.fa-save {
-    display: none;
-}
-
-i.icon.clickfunnels.large.logo {
-    display: none;
-}
-
-i.clickfunnels.large.icon.backpack {
-    display: none;
-}
-
-i.clickfunnels.follow-up-funnel.icon {
-    display: none;
-}
-
-img.hover {
-    display: none;
-}
-
-div.ui.brand.icon.item {
-    display: none;
-}
-
-div.dropdown.item.link.simple.ui a {
-    color: #2c3438;
-}
-
-div.ui.dropdown.simple.link.item.notification {
-    display: none;
-}
-
-i.life.ring.icon {
-    display: none;
-}
-
-img.ui.circular.mini.avatar.image {
-    display: none;
-}
-
-div.pull-left.pageListingIcon img {
-    display: none;
-}
-
-div.funnelStatSmall.funnelViews.funnelPages.pull-left.pinned {
-    display: none;
-}
-
-a.btn.btn-default.btn-edit {
-    display: none;
-}
-
-i.fa.fa-star {
-    display: none;
-}
-
-div.pageListingType {
-    display: none;
-}
-
-div.tableGroupedTitleBar.groupHeader.clearfix.isDown {
-    background-color: #EDEFF0;
-    border-style: none;
-    color: #EDEFF0;
-}
-
-i.fa.fa-caret-down {
-    display: none;
-}
-
-body.signedin.funnels.index.pace-running footer {
-    display: none;
-}
-
-div.tableGroupedTitleBar.groupHeader.clearfix {
-    background-color: #F7F7F7;
-    color: #F7F7F7;
-}
-
-i.fa.fa-caret-up {
-    display: none;
-}
-
-div.messenger-message.message.alert.error.message-error.alert-error {
-    display: none;
-}
-
-div.funnelHeaderName.pull-left span {
-    display: none;
-}
-
-i.fa.fa-cog {
-    display: none;
-}
-
-div.funnelHeaderNameAndIcon.pull-left.clearfix {
-    display: none;
-}
-
-span.fa.fa-bars {
-    display: none;
-}
-
-span.fa.fa-bar-chart {
-    display: none;
-}
-
-span.fa.fa-users {
-    display: none;
-}
-
-span.fa.fa-money {
-    display: none;
-}
-
-span.fa.fa-gear {
-    display: none;
-}
-
-a.pull-left span {
-    color: #1668AB;
-}
-
-a.pull-left {
-    color: #1668AB;
-}
-
-i.fa.fa-th-large {
-    display: none;
-}
-
 i.fa.fa-flash {
-    display: none;
-}
-
-i.fa.fa-wrench {
-    display: none;
-}
-
-li.topPageTabs-item a {
-    color: #F7F7F7;
-}
-
-div.topPagesTitleBit.pull-left strong {
-    display: none;
-}
-
-a.openPageInEditor.openPageInEditorV1 {
-    display: none;
-}
-
-div.ui.attached.message {
     display: none;
 }
 
@@ -189,122 +314,43 @@ i.fa.fa-flask {
     display: none;
 }
 
-div.funnelStartSplitTestHeadline {
+i.fa.fa-plug {
     display: none;
-}
-
-div.funnelStartSplitTestText {
-    display: none;
-}
-
-div.funnelStartSplitTestBlock.splitTestAddStart {
-    border-style: none;
 }
 
 i.fa.fa-plus {
     display: none;
 }
 
-div.funnelStepPagesItemImage img {
+i.fa.fa-save {
     display: none;
 }
 
-a.btn.btn-sm.btn-default.removeFromFunnelView {
+i.fa.fa-star {
     display: none;
 }
 
-a.btn.btn-sm.btn-default {
+i.fa.fa-th-large {
     display: none;
 }
 
-div.col-sm-12 {
+i.fa.fa-wrench {
     display: none;
 }
 
-a.btn.btn-default.showPageSettingsDropdown.perview-url {
-    border-style: none;
-    background-color: white;
-}
-
-i.fa.fa-edit {
+i.icon.clickfunnels.large.logo {
     display: none;
 }
 
-a.btn.btn-default.showPageSettingsDropdown {
-    border-style: none;
-    background-color: white;
-    box-shadow: none;
-}
-
-.funnelStepPagesItem {
-    box-shadow: none;
-}
-
-div.funnelStepPagesEditPage {
-    border-style: none;
-    box-shadow: none;
-}
-
-a.btn.btn-default {
-    border: none;
-    color: white;
-    background: white;
-    box-shadow: none;
-}
-
-body.signedin.funnel_steps.show.pace-running footer {
+i.life.ring.icon {
     display: none;
 }
 
-div.funnelExtraPageTitle {
+img.hover {
     display: none;
 }
 
-div.funnelStepsTitleExplainer.clearfix {
-    display: none;
-}
-
-div.funnelSideStepPercent.funnel_conv_rate {
-    display: none;
-}
-
-div.funnelSideStepPageViews span {
-    display: none;
-}
-
-.funnelSideStep:before, .funnelSideStep:hover:before {
-    display: none;
-}
-
-div.funnelSideStepPageTitle.funnelSideStepPageTitleExtraPadding {
-    color: #3E474F;
-}
-
-#cf-dash-content {
-    display: none;
-}
-
-#cf-dash-leftSide {
-    display: none;
-}
-
-div.sidebar.container {
-    display: none;
-}
-
-div.ui.attached.segment.dashboard {
-    display: none;
-}
-
-div.six.wide.column.right.aligned {
-    display: none;
-}
-
-div.ten.wide.column {
-    display: none;
-}
-
-div.item.cf-quick-search-container {
+img.ui.circular.mini.avatar.image {
     display: none;
 }
 
@@ -312,31 +358,31 @@ input.cf-quick-search-input.prompt {
     display: none;
 }
 
-div.ui.cf-quick-search.input {
+li.topPageTabs-item a {
+    color: #F7F7F7;
+}
+
+span.fa.fa-bar-chart {
     display: none;
 }
 
-.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item i.icon {
+span.fa.fa-bars {
     display: none;
 }
 
-.ui.menu:not(#main-nav) .menu.right .dropdown.item.link .menu .item {
-    color: transparent;
+span.fa.fa-gear {
+    display: none;
 }
 
-div.pull-left.AffiliateTableHeader.greyBox.clearfix {
+span.fa.fa-money {
+    display: none;
+}
+
+span.fa.fa-users {
     display: none;
 }
 
 ul.paymentTypesNav.mainFunnelnav.pull-left {
-    display: none;
-}
-
-div.dashboardSideBlockWrap {
-    display: none;
-}
-
-div.btn.btn-block.clearfix {
     display: none;
 }
 
